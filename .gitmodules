@@ -1,0 +1,12 @@
+[submodule "labelme"]
+	path = labelme
+	url = https://github.com/wkentaro/labelme
+[submodule "coco-annotator"]
+	path = coco-annotator
+	url = https://github.com/jsbroks/coco-annotator
+[submodule "labelme-playground"]
+	path = labelme-playground
+	url = https://github.com/deliriouspointblanc/labelme_playground
+[submodule "coco-annotator-playground"]
+	path = coco-annotator-playground
+	url = https://github.com/deliriouspointblanc/coco-annotator-playground

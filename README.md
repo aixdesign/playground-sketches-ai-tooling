@@ -16,7 +16,7 @@ This is my version of code. Almost all I didn't write myself, so here's the refe
 For dataset preparation I used:
 - [COCO-Annotator](https://github.com/jsbroks/coco-annotator) is from jsbrooks. Docker was too difficult to set up so I abandoned this repo and went to...
 
-- [labelme](https://github.com/wkentaro/labelme) is from wkentaro. To view the images I annotated navigate: labelme_playground --> examples --> data_annotated --> playground_annotated (view json files). View --> pg_dataset_coco to view the empty json file. Something went wrong when using the labelme2coco script. Couldn't identify what the problem is yet, but might be worth it to update the repo and try again.
+- [labelme](https://github.com/wkentaro/labelme) is from wkentaro. To view the images I annotated navigate: labelme_playground --> examples --> instance_segmentation --> data_annotated --> playground_annotated (view json files). View --> pg_dataset_coco to view the empty json file. Something went wrong when using the labelme2coco script. Couldn't identify what the problem is yet, but might be worth it to update the repo and try again.
 
 
 For starting my synthetic dataset:
